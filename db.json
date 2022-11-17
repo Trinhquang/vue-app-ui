@@ -1,0 +1,295 @@
+{
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  },
+  "items": [
+    {
+      "id": 1,
+      "name": "Cabbage",
+      "bought": true
+    },
+    {
+      "id": 2,
+      "name": "Banana"
+    },
+    {
+      "id": 0,
+      "name": "Cakes"
+    },
+    {
+      "name": "Apple",
+      "id": 3
+    },
+    {
+      "name": "Orange",
+      "id": 4
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "image": "https://static.wixstatic.com/media/e32fd518921d4fc2a430ff518109eccd.png/v1/fill/w_740,h_467,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/e32fd518921d4fc2a430ff518109eccd.png",
+      "author": "Admin",
+      "createdDate": "Tue Nov 1 2022 09:35:33 GMT+0700",
+      "title": "Playing with patterns",
+      "description": "Welcome to your blog post. Use this space to connect with your readers and potential customers in a way that’s current and interesting. Think of it as an ongoing conversation where you can share updates about business, trends, news, and more. ",
+      "views": 217,
+      "comments": 0,
+      "like": 5
+    },
+    {
+      "id": 2,
+      "image": "https://static.wixstatic.com/media/84770f_df0bdbbdd9a94259858e70cbba33897f~mv2_d_3538_2359_s_2.jpg/v1/fill/w_740,h_493,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/84770f_df0bdbbdd9a94259858e70cbba33897f~mv2_d_3538_2359_s_2.jpg",
+      "author": "Admin",
+      "createdDate": "Sat Nov 5 2022 09:35:33 GMT+0700",
+      "title": "Natalia’s apartment makeover",
+      "description": "Every layout comes with the latest social features built in. Readers will be able to easily share posts on social networks like Facebook and Twitter, view how many people have liked a post, made comments and more. With the Wix, building your online community has never been easier.",
+      "views": 55,
+      "comments": 0,
+      "likes": 3
+    },
+    {
+      "id": 3,
+      "image": "https://static.wixstatic.com/media/84bcc4ac73e5416fb9b9aa9231ccabaf.jpg/v1/fill/w_740,h_493,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/84bcc4ac73e5416fb9b9aa9231ccabaf.jpg",
+      "author": "Admin",
+      "createdDate": "Thu Nov 10 2022 09:35:33 GMT+0700",
+      "title": "Off the wall design decor",
+      "description": "Do you have a design in mind for your blog? Whether you prefer a trendy postcard look or you’re going for a more editorial style blog - there’s a stunning layout for everyone.",
+      "views": 49,
+      "comments": 0,
+      "likes": 5
+    },
+    {
+      "id": 4,
+      "image": "https://static.wixstatic.com/media/84770f_4177efdaeb1849cd90e492cfdb8709dc~mv2_d_7360_4912_s_4_2.jpg/v1/fill/w_740,h_494,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/84770f_4177efdaeb1849cd90e492cfdb8709dc~mv2_d_7360_4912_s_4_2.jpg",
+      "author": "Admin",
+      "createdDate": "Tue Nov 15 2022 09:35:33 GMT+0700",
+      "title": "Open house staging",
+      "description": "You’ll be posting loads of engaging content, so be sure to keep your blog organized with Categories that also allow visitors to explore more of what interests them.",
+      "views": 32,
+      "comments": 0,
+      "likes": 2
+    },
+    {
+      "id": 5,
+      "image": "https://static.wixstatic.com/media/0005bbdb1cc54537b6ea184c3fae9d1f.jpg/v1/fill/w_740,h_493,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/0005bbdb1cc54537b6ea184c3fae9d1f.jpg",
+      "author": "Admin",
+      "createdDate": "Sun Nov 20 2022 09:35:33 GMT+0700",
+      "title": "Green windows & green thumbs",
+      "description": "Each category of your blog has its own page that’s fully customizable. Add a catchy title, a brief description and a beautiful image to the category page header to truly make it your own.",
+      "views": 12,
+      "comments": 0,
+      "likes": 2
+    },
+    {
+      "id": 6,
+      "image": "https://static.wixstatic.com/media/00947d8cfb644363bc800113627958b9.png/v1/fill/w_740,h_468,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/00947d8cfb644363bc800113627958b9.png",
+      "author": "Admin",
+      "createdDate": "Fri Nov 25 2022 09:35:33 GMT+0700",
+      "title": "Neutral color palette inspiration",
+      "description": "Go wild with original blog posts about recent projects, cool inspirational ideas, or what your company culture is like. Add images, and videos to really spice it up, and pepper it with slang to keep readers interested. ",
+      "views": 10,
+      "comments": 0,
+      "likes": 5
+    },
+    {
+      "id": 7,
+      "image": "https://i.pinimg.com/564x/67/29/c9/6729c9ad77a03655a899cfc73f194c14.jpg",
+      "author": "Admin",
+      "createdDate": "2022-11-16T07:17:52.345Z",
+      "title": "50 top items in home decor",
+      "description": "It’s a struggle we’ve experienced many times, which is why we pulled together this list of the 50 top items in home decor. Whenever we have an arrangement that’s lacking or a room that’s looking a bit sparse, we refer back to this list for inspiration on what else we can use in the space.",
+      "views": 0,
+      "comments": 0,
+      "likes": 1
+    },
+    {
+      "id": 8,
+      "image": "https://i.pinimg.com/564x/37/a4/c8/37a4c837b85693f6b428b4ca7589ba14.jpg",
+      "author": "Admin",
+      "createdDate": "2022-11-16T07:33:24.831Z",
+      "title": "Wall light guide",
+      "description": "Recently a reader requested advice on using wall lights around the home, wanting to know the rules and trends. Of course, we called in our resident lighting expert, James Nagel of Luxygen, to get his insights. James is a qualified Illumination Designer with over 15 years’ experience the lighting industry.",
+      "views": 0,
+      "comments": 0,
+      "likes": 1
+    },
+    {
+      "id": 9,
+      "image": "https://i.pinimg.com/564x/e5/a7/07/e5a7071b344dc87331f0393ac1c4a81d.jpg",
+      "author": "Admin",
+      "createdDate": "2022-11-16T07:36:15.471Z",
+      "title": "20 Open Kitchen Ideas That Are Modern and Spacious",
+      "description": "Now that we've discovered the joy of open cook spaces, how could we go back to awkward galley kitchens with full-height walls and closed doors? Culinary masterminds shouldn't be crammed into a tiny space so they can chop, sweat, and stir while the rest of their family kicks back. Luckily, an open floor plan combines the best of both worlds: enjoying the company of those you love and cooking your favorite meals.",
+      "views": 0,
+      "comments": 0,
+      "likes": 1
+    },
+    {
+      "id": 11,
+      "image": "https://i.pinimg.com/564x/56/ce/8e/56ce8e43456cc75647fcb92d5d2a778c.jpg",
+      "author": "Admin",
+      "createdDate": "2022-11-16T16:40:52.897Z",
+      "title": "Quick & simple bathroom makeover",
+      "description": "Our bathroom is one of those rooms I feel totally overwhelmed with styling - whilst I'd love a whole new suite, that isn't really financially possible at the moment, so I've had to be creative with how I decorate it instead. So rather than ripping everything out, I've done what I can with accessories only. ",
+      "views": 0,
+      "comments": 0,
+      "likes": 1,
+      "data": {
+        "image": "https://i.pinimg.com/564x/56/ce/8e/56ce8e43456cc75647fcb92d5d2a778c.jpg",
+        "title": "Quick & simple",
+        "description": "Our bathroom is one of those rooms I feel totally overwhelmed with styling - whilst I'd love a whole new suite, that isn't really financially possible at the moment, so I've had to be creative with how I decorate it instead. So rather than ripping everything out, I've done what I can with accessories only. "
+      }
+    },
+    {
+      "id": 16,
+      "image": "https://i.pinimg.com/564x/07/60/34/076034e7ece82ea882108e2e5767907e.jpg",
+      "author": "Admin",
+      "createdDate": "2022-11-16T17:03:04.594Z",
+      "title": "OUR ﻿LIVING ROOM REVEAL WITH ARTICLE",
+      "description": "It probably seems like I’m jumping through an awful lot of hoops all in the name of a TV. I swear that we’re not the type of people to waste our lives away in front of the tube, but we do enjoy watching shows and movies throughout the week as a little escape from the day-to-day. \n",
+      "views": 0,
+      "comments": 0,
+      "likes": 0
+    },
+    {
+      "id": 17,
+      "image": "https://i.pinimg.com/564x/d1/7c/fc/d17cfcb6bbfd5cd1f9691ed7b527c1e7.jpg",
+      "author": "Admin",
+      "createdDate": "2022-11-16T17:04:17.979Z",
+      "title": "Favorite Spaces of the Week",
+      "description": "I hope you had a wonderful week!  I’m excited to share a few favorite spaces with you today!  These lovely images are filled with inspiration for every room in the house, and I hope you find lots of ideas for your own home.",
+      "views": 0,
+      "comments": 0,
+      "likes": 0
+    },
+    {
+      "id": 18,
+      "image": "https://i.pinimg.com/564x/21/09/b6/2109b65c0e40c943d854fc095968107f.jpg",
+      "author": "Admin",
+      "createdDate": "2022-11-16T17:05:07.227Z",
+      "title": "Modernize Your Living Room ",
+      "description": "Choosing the perfect paint color for your living room means selecting a shade that's adaptable and timeless but also shows off your style and personality. \"Often a hub of the home, living rooms tend to connect multiple rooms,\" says Arianna Cesa, associate manager of color marketing and development at Benjamin Moore. ",
+      "views": 0,
+      "comments": 0,
+      "likes": 0
+    },
+    {
+      "id": 19,
+      "image": "https://i.pinimg.com/564x/1b/fc/a0/1bfca036c890d475b68a6e275acaf744.jpg",
+      "author": "Admin",
+      "createdDate": "2022-11-16T17:06:34.730Z",
+      "title": "5 Real Estate Staging Tips from an Interior Design Expert",
+      "description": "If you’re getting ready to sell your home–or even if you’re just considering putting your home on the market–it’s never to early to start thinking about real estate staging and how smart, stylish, and strategic staging can truly help your home sell faster. Primarily, staging is super-important because you want potential buyers to see themselves actually living in the space and you want it to feel aspirational so the buyer will feel as if they’ll be unquestionably getting an upgrade by moving in.",
+      "views": 0,
+      "comments": 0,
+      "likes": 0
+    },
+    {
+      "id": 20,
+      "image": "https://i.pinimg.com/564x/18/00/5d/18005d60a297cd4b8803dc4cbcc9cefc.jpg",
+      "author": "Admin",
+      "createdDate": "2022-11-16T17:09:05.281Z",
+      "title": "19 Captivating Boho Bedroom Ideas",
+      "description": "So, you want a boho themed bedroom? This is a fun and exciting time for you because bohemian interior design is in and it’s fashionable. Find some inspiration here with our 19 boho bedroom ideas!\n\nThere are so many different ways to create your unique bedroom, and the best ways are the ones that personalize your room to you. We want your bedroom to be a sanctuary – a place where you can destress and escape from your daily routine.",
+      "views": 0,
+      "comments": 0,
+      "likes": 1
+    },
+    {
+      "id": 21,
+      "image": "https://i.pinimg.com/564x/9f/58/fe/9f58fefb28647ba3d4a82202b2c1d55e.jpg",
+      "author": "Admin",
+      "createdDate": "2022-11-16T17:10:01.713Z",
+      "title": "16 Scandinavian Bedroom Designs to Inspire Your Decor Style",
+      "description": "With a Scandi bedroom style, you can bring something new and interesting to your home décor. It also allows you to go for a blended theme, turning them into a singular style. Just think: have you ever wanted something rustic in your room, but also ached for contemporary furniture? Well, Scandinavian décor is the perfect way to go. Not many ways of decorating offer both a clean look that still has plenty of flairs or something minimal that also seems larger than life.",
+      "views": 0,
+      "comments": 0,
+      "likes": 2
+    },
+    {
+      "id": 22,
+      "image": "https://i.pinimg.com/564x/7f/af/eb/7fafebdaab2b6a9d07db440e23c9ae3b.jpg",
+      "author": "Admin",
+      "createdDate": "2022-11-16T17:10:34.650Z",
+      "title": "The bedroom colours that promote 'peaceful' sleeping",
+      "description": "Experts have revealed the three colours you should use to decorate your bedroom for a good night's sleep - and it is bad news if you like red.\n\nThe team at Bed Threads have revealed people who sleep in blue bedrooms get the most sleep - and wake up the happiest.\n\nAnd this is because the 'happiness receptors' in human eyes are very sensitive to blue.",
+      "views": 0,
+      "comments": 0,
+      "likes": 3
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1668626818268,
+      "name": "Ember Davidson",
+      "email": "ember@gmail.com",
+      "phone": "202-555-0151",
+      "message": "Hello"
+    },
+    {
+      "id": 1668627024771,
+      "name": "Vincent Hill",
+      "email": "vincent@gmail.com",
+      "phone": "202-555-0176",
+      "message": "I work in an office"
+    },
+    {
+      "id": 1668627073233,
+      "name": "Conor Davis",
+      "email": "conor@gmail.com",
+      "phone": "202-555-0164",
+      "message": "I am a traveler"
+    },
+    {
+      "id": 1668627103786,
+      "name": "Esther Floyd",
+      "email": "esther@gmail.com",
+      "phone": "202-555-0123",
+      "message": "Understanding other people"
+    },
+    {
+      "id": 1668627128089,
+      "name": "Ashley Gutierrez",
+      "email": "ashley@gmail.com",
+      "phone": "202-555-0164",
+      "message": "Inner and outer peace"
+    },
+    {
+      "id": 1668627330506,
+      "name": "Nova Long",
+      "email": "nova@gmail.com",
+      "phone": "202-555-0154",
+      "message": "I know what I want - Confidence"
+    },
+    {
+      "id": 1668627363082,
+      "name": "Axel Thompson",
+      "email": "axel@gmail.com",
+      "phone": "512-555-0185",
+      "message": "I am always helping out - Kindness"
+    },
+    {
+      "id": 1668627385881,
+      "name": "Harlow Norris",
+      "email": "harlow@gmail.com",
+      "phone": "512-555-0185",
+      "message": "My life is a crazy explosion of shapes and colors - Creativity"
+    },
+    {
+      "id": 1668627408784,
+      "name": "Gabriella Davis",
+      "email": "gabriella@gmail.com",
+      "phone": "512-555-0187",
+      "message": "They always come to me for advice"
+    },
+    {
+      "id": 1668627431040,
+      "name": "Declan Lambert",
+      "email": "declan@gmail.com",
+      "phone": "512-555-0115",
+      "message": "I offer support where I can"
+    }
+  ]
+}
